@@ -1,0 +1,328 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-color: #b74e91; */
+}
+/* NavbarSection CSS starts here */
+#NavbarSection  ul {
+    text-align: center;
+    background-color: #312450;
+    color: white;
+    margin-top: 120px2px;
+    padding: 18px;
+    width: 100%;
+    position: fixed;
+}
+#NavbarSection  ul li{
+    display: inline;
+    margin-right: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+
+}
+/* #NavbarSection CSS ends here */
+/* #BodySection CSS starts here */
+#BodySection{
+    background-image: url(./images/Background.jpeg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:520px;
+    margin-top: -20px;
+    padding: 150px;
+}
+#BodySection h1{
+    font-size: 44px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#BodySection p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #b2a0cb;
+}
+#BodySection button {
+    border: 1px solid #5e42a6;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    background-color: #5e42a6;
+}
+/* #BodySection CSS ends here */
+/* #DescripSection CSS starts here */
+
+#DescripSection{
+margin-top: -110px;
+background-color: #5052b5;
+color: whitesmoke;
+height: 1202px;
+}
+#pic1{
+    text-align: left;
+    margin-left: 500px;
+    margin-top: -335px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pic2{
+    text-align: left;
+    margin-left: 500px;
+    margin-top: -335px;
+    background-color: #505  2b5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pic3{
+    text-align: left;
+    margin-left: 500px;
+    margin-top: -335px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pic1 button{
+    border: 1px solid #f5f5f5;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    background-color: #5052b5;  
+
+}
+#pic2  button{
+    border: 1px solid #f5f5f5;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    background-color: #5052b5;  
+
+}
+#pic3 button{
+    border: 1px solid #f5f5f5;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    background-color: #5052b5;  
+
+}
+
+/* #DescripSection CSS ends here */
+/* #IconSection CSS starts here */
+#IconSection{
+   
+    width: 100%;
+    margin: 0 auto;
+    background-color: #b74e91;
+    margin-top: 101px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#IconSection div{
+    width: 45%;
+    margin-left: 60px;
+    margin-right: -63px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 70px;
+    color: whitesmoke;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #bb5797;
+    border-radius: 5px;
+    background-color:#be609c ;
+}
+
+
+#IconSection p{
+    font-weight: 100;
+    margin-left: 100px;
+    margin-top: -60px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+#IconSection h1{
+    margin-left: 100px;
+    line-height: 160px;
+    color: whitesmoke;
+    margin-top: -102px;
+    font-size: 150%;
+}
+#IconSection1 i{
+    background-color: whitesmoke;
+    padding: 15px 16px;
+    color: #b74e91;
+    margin-top: 18px;
+    margin-left: 30px;
+    border-radius: 30px;
+    font-weight: bolder;
+    border: 1px solid whitesmoke;
+}
+#IconSection2 i{
+    background-color: whitesmoke;
+    padding:15px 19px;
+    color: #b74e91;
+    margin-top: 18px;
+    margin-left: 30px;
+    border-radius: 30px;
+    font-weight: bolder;
+
+}
+#IconSection3 i{
+    background-color: whitesmoke;
+    padding: 15px 16px;
+    color: #b74e91;
+    margin-top: 18px;
+    margin-left: 30px;
+    border-radius: 30px;
+    font-weight: bolder;
+
+}
+#IconSection4 i{
+    background-color: whitesmoke;
+    padding: 15px 16px;
+    color: #b74e91;
+    margin-top: 18px;
+    margin-left: 30px;
+    border-radius: 30px;
+    font-weight: bolder;
+}
+#IconSection5 i{
+    background-color: whitesmoke;
+    padding: 15px 16px;
+    color: #b74e91;
+    margin-top: 18px;
+    margin-left: 30px;
+    border-radius: 30px;
+    font-weight: bolder;
+}
+#IconSection6 i{
+    background-color: whitesmoke;
+    padding: 15px 14px;
+    color: #b74e91;
+    margin-top: 18px;
+    margin-left: 30px;
+    border-radius: 30px;
+    font-weight: bolder;
+    border: 1px solid whitesmoke;
+}
+#IconSection button{
+    border: 2px solid #bb5797;
+    width: 150px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 54px;
+    text-align: center;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    background-color: #b74e91 ;
+    margin-bottom: 50px;
+
+}
+
+/* #IconSection CSS ends here */
+/* #DetailSection CSS starts here */
+#DetailSection{
+    background-color: #5e42a6;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+    height: 700px;
+
+}
+#Name{
+    background-color: #664cab;
+    border: 1px solid #664cab;
+    border-radius: 5px;
+    padding: 15px 80px;
+}
+#Email{
+    background-color: #664cab;
+    border: 1px solid #664cab;
+    border-radius: 5px;
+    padding: 15px 80px;
+}
+#Message{
+    background-color: #664cab;
+    border: 1px solid #664cab;
+    border-radius: 5px;
+    padding: 15px 80px;
+}
+#form{
+    padding-left: 75px;
+    padding-top: 30px;
+}
+#DetailSection button{
+    border: 2px solid #664cab;
+    width: 150px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 54px;
+    text-align: center;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    background-color: #664cab ;
+    margin-bottom: 50px;
+}
+#DetailSection h1{
+    padding-top: 70px;
+    padding-left: 75px;
+    margin-top: 20px;
+}
+#DetailSection p{
+    padding-left: 75px;
+}
+#DetailSection div:nth-child(1){
+    border-right: 2px solid #747474;
+}
+#add{
+    margin-left: 670px;
+    margin-top: -541px;
+    border-left: 1px solid gray;
+}
+#SocialMedia i{
+    font-size: 25px;
+    margin: 20px;
+    margin-right: -60px;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+/* #DetailSection CSS ends here */
+/* #EndSection CSS stars here */
+#EndSection{
+    width: 100%;
+    height: 100px;
+    background-color: #493382 ;
+    color: gray;
+    padding-top: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#EndSection p{
+    padding-left: 100px;
+}
+/* #EndSection CSS ends here */
